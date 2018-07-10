@@ -1,0 +1,24 @@
+{
+	"name":"te.qt.hidroAppPlugin",
+	"display_name":"Terra Hidro APP Plugin",
+	"description":"This plugin has operations for hidro and app processing.",
+	"version":"5.0.0",
+	"release":"2017-01-01",
+	"engine":"C++",
+	"license_description":"GNU Lesser General Public License v 3.0",
+	"license_URL":"http://www.gnu.org/licenses/lgpl-3.0-standalone.html",
+	"site":"http://www.dpi.inpe.br/terralib5/wiki/doku.php?id=wiki:designimplementation",
+	"dependencies":[],
+	"linked_libraries":[],
+	"resources":{"shared_library_name":"hidroAppPlugin"},
+	"parameters":[],
+	"provider":{
+		"name":"Eric Silva Abreu",
+		"site":"http://www.terralib.org/",
+		"email":"eric@dpi.inpe.br"
+	},
+	"host_application":{
+		"name":"TerraLib",
+		"version":"5.2.0"
+	}
+}
